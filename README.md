@@ -26,12 +26,12 @@ Aplicação de gerenciamento de tarefas desenvolvida com React e Vite, permitind
 
 1. Clone o repositório:
    ```bash
-   git clone URL_DO_REPOSITORIO
+   git clone (https://github.com/GabrielServio/todo-react-avancado)
    ```
 
 2. Entre na pasta do projeto:
    ```bash
-   cd Todo-list
+   cd todo-react-avancado
    ```
 
 3. Instale as dependências:
